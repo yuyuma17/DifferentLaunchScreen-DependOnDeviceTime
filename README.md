@@ -10,6 +10,3 @@ And if you are good at Chinese, you can see the [article](https://ithelp.ithome.
 ## Demo
 
 <img src="https://github.com/yuyuma17/DifferentLaunchScreen-DependOnDeviceTime/blob/master/Demo/demo1.gif"> 
-
-
-
